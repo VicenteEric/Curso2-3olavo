@@ -100,4 +100,12 @@ body{
     }
 }
 
+<!-- código omitido  -->
+
+.parametro-senha-botoes{
+    display: flex;
+    justify-content: center;
+}
+
+<!-- código omitido  -->
 
