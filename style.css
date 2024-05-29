@@ -116,6 +116,12 @@ label{
     cursor: pointer;
 }
 
+.barra{
+    background-color: var(--fundo-senha);
+    height: 30px;
+    width: 100%;
+}
+
 
 
 @media screen and (min-width: 768px) {
