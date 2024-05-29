@@ -140,7 +140,10 @@ label{
     width: 100%;
 }
 
-
+.parametro-senha-textos{
+    display: flex;
+    justify-content: space-between;
+}
 
 
 @media screen and (min-width: 768px) {
